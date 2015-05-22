@@ -33,8 +33,9 @@ body {
     line-height: 22px;
     background-color: rgba(53, 10, 4, .5);
 	background-image:url(../img/bg.jpg);
-	background-size: cover;
-	/*background-repeat:repeat;*/
+	background-size:100% auto;
+	/*background-size: cover;
+	background-repeat:repeat;*/
     font-weight: normal;
 	
 }
